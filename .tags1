@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+PWM_IN_PIN	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^#define PWM_IN_PIN /;"	macro	line:4	file:
+KILLSWITCH_PIN	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^#define KILLSWITCH_PIN /;"	macro	line:5	file:
+let_signal_pass	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^bool let_signal_pass;$/;"	variable	line:7
+pwm_value	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile int pwm_value = 0;$/;"	variable	line:9
+prev_time	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile long prev_time = 0;$/;"	variable	line:10
+now	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile long now = 0;$/;"	variable	line:11
+setup	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void setup() {$/;"	function	line:15	signature:()
+loop	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void loop() {$/;"	function	line:23	signature:()
+rising	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void rising() {$/;"	function	line:31	signature:()
+falling	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void falling() {$/;"	function	line:36	signature:()
