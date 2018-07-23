@@ -10,7 +10,8 @@ let_signal_pass	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^b
 pwm_value	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile int pwm_value = 0;$/;"	variable	line:9
 prev_time	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile long prev_time = 0;$/;"	variable	line:10
 now	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^volatile long now = 0;$/;"	variable	line:11
-setup	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void setup() {$/;"	function	line:15	signature:()
-loop	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void loop() {$/;"	function	line:23	signature:()
-rising	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void rising() {$/;"	function	line:31	signature:()
-falling	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void falling() {$/;"	function	line:36	signature:()
+counter	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^int counter = 0;$/;"	variable	line:15
+setup	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void setup() {$/;"	function	line:17	signature:()
+loop	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void loop() {$/;"	function	line:25	signature:()
+rising	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void rising() {$/;"	function	line:41	signature:()
+falling	C:\Users\EdvardOlaf\Documents\Ascend\Killswitch\src\main.cpp	/^void falling() {$/;"	function	line:46	signature:()
